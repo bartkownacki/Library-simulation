@@ -1,5 +1,5 @@
 # Library-simulation
-University project of Library Simulation written in Python 3.7
+University project of Library Simulation written in Python 3.7 with my friend
 
 ## Installing requirements
   1. Import database to your MySQL server: ```database export.sql```, in my case XAMPP.
